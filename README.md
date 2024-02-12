@@ -1,4 +1,4 @@
-## Join Our Java Training Session and Grow with JustAcademy, [Apply Now](https://www.justacademy.co/course-detail/core-java-training)
+# Join Our Java Training Session and Grow with JustAcademy, [Apply Now](https://www.justacademy.co/course-detail/core-java-training)
 
 ### Introduction:
 
